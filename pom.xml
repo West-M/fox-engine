@@ -755,8 +755,8 @@
     <url>http://bamboo.ci.codehaus.org/browse/ACT</url>
   </ciManagement>
   <scm>
-   <connection>scm:git:git@bitbucket.org:camunda/fox-engine.git</connection>
-   <developerConnection>scm:git:git@bitbucket.org:camunda/fox-engine.git</developerConnection>
+   <connection>scm:git:git@github.com:camunda/fox-engine.git</connection>
+   <developerConnection>scm:git:git@github.com:camunda/fox-engine.git</developerConnection>
   </scm>
 
 </project>
