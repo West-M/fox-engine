@@ -149,7 +149,7 @@
         <artifactId>db2jcc4</artifactId>
         <version>9.7</version>
         <scope>test</scope>
-      </dependency> 
+      </dependency>	  
       <dependency>
         <groupId>com.camunda.fox.engine</groupId>
         <artifactId>fox-engine</artifactId>
